@@ -1,4 +1,4 @@
-# Implement-a-KNN-based-classifier-to-predict-digits-from-images-of-handwritten-digit-MNIST-
+# KNN-based-classifier-to-predict-digits-from-images-of-handwritten-digit
 Language : Python
 IDE : jupyter-notebook
 Task : Without using ScikitLearn library
